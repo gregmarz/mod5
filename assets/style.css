@@ -67,6 +67,8 @@ textarea:focus {
   color: white;
   height: 50px;
   width: 200px;
+  margin-left: 5px;
+  margin-top: 15px;
 }
 
 .saveBtn i:hover {
